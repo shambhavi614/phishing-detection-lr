@@ -104,3 +104,5 @@ Supervised Learning: Classification
 Key Features: URL length, HTTPS, IP address, suspicious keywords, @ symbol
 
 Accuracy: ~88–90% on standard phishing datasets
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df6d9330-4697-47b0-8bd6-f1d03011889b" />
