@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CyberShield | Phishing Detector</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="card">
+      <h1>🛡️ CyberShield</h1>
+      <p class="subtitle">AI-Powered Phishing Website Detection</p>
+
+      <input 
+        type="text" 
+        id="url" 
+        placeholder="Enter website URL (https://example.com)"
+      >
+
+      <button onclick="checkURL()">Scan Website</button>
+
+      <div id="result" class="result"></div>
+
+      <p class="footer">
+        Built using Logistic Regression • Cyber Security Project
+      </p>
+    </div>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
